@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-photo/static/css/main.dccd9d9b.css",
+    "main.js": "/react-photo/static/js/main.938d661e.js",
+    "static/js/787.6c99c6be.chunk.js": "/react-photo/static/js/787.6c99c6be.chunk.js",
+    "static/media/downloadIcon.svg": "/react-photo/static/media/downloadIcon.b831cc68c7503c4a5096cfaed0d3a97b.svg",
+    "static/media/facingIcon.svg": "/react-photo/static/media/facingIcon.c09d8e138e97411b578b0e4cf93f5b41.svg",
+    "static/media/photoIcon.svg": "/react-photo/static/media/photoIcon.b3bf3b2c1de8b3c52b2c61e62bf41471.svg",
+    "index.html": "/react-photo/index.html",
+    "static/media/deleteIcon.svg": "/react-photo/static/media/deleteIcon.3001855bc8b2d85097e2f4ab5c7a9dc2.svg",
+    "main.dccd9d9b.css.map": "/react-photo/static/css/main.dccd9d9b.css.map",
+    "main.938d661e.js.map": "/react-photo/static/js/main.938d661e.js.map",
+    "787.6c99c6be.chunk.js.map": "/react-photo/static/js/787.6c99c6be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dccd9d9b.css",
+    "static/js/main.938d661e.js"
+  ]
+}
